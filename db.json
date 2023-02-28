@@ -1,0 +1,32 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Nayu mati",
+      "email": "nayu@gmail.com",
+      "phone": "0624408364",
+      "status": true
+    },
+    {
+      "name": "Jon Dog",
+      "email": "jon@gmail.com",
+      "phone": "0634408854",
+      "status": true,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Jon davinsy",
+      "email": "jonda@gmail.com",
+      "phone": "0634406644",
+      "status": true
+    },
+    {
+      "name": "nema",
+      "email": "nema@gmail.com",
+      "phone": "0645552410",
+      "status": true,
+      "id": 4
+    }
+  ]
+}
